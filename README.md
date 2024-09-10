@@ -9,7 +9,7 @@
 #Features
 
 Frontend:
--.Browse restaurants and menus
+->Browse restaurants and menus
 ->Place orders and track delivery status.
 ->User authentication and profile management.
 
